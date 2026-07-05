@@ -66,9 +66,9 @@ the app and across releases.
 | Face Mirror               | 表情镜                 | 臉部鏡子{ln}                   | フェイスミラー{ln}               |
 | Fallback                  | 备用模型               | 後備角色                       | フォールバック                   |
 | Favorite                  | 收藏                   | 收藏                           | お気に入り                       |
-| Favorite Avatars          | 已收藏                 | 收藏的角色                     | お気に入りのアバター             |
-| Favorite Friends          | 设置分组               | 收藏的好友                     | フレンドをお気に入りに加える     |
-| Favorite Worlds           | 收藏的世界             | 收藏的世界                     | お気に入りのワールド             |
+| Favorite Avatars          | 已收藏                 | 收藏角色                     | お気に入りのアバター             |
+| Favorite Friends          | 设置分组               | 收藏好友                     | フレンドをお気に入りに加える     |
+| Favorite Worlds           | 收藏的世界             | 收藏世界                     | お気に入りのワールド             |
 | Favorites                 | 收藏数                 | 收藏                           | お気に入り数                     |
 | Favorites List            | 收藏列表               | 列表                           | お気に入りリスト                 |
 | Filter                    | 筛选                   | 篩選                           | フィルター                       |
@@ -97,7 +97,7 @@ the app and across releases.
 | Instances                 | 房间                   | 房間                           | インスタンス                     |
 | Inventory                 | 库存                   | 庫存                           | インベントリ                     |
 | Invite                    | 邀请                   | 邀請                           | インバイト                       |
-| Invite Request            | 加入请求               | 申請加入                       | 招待リクエスト                   |
+| Invite Request            | 加入请求               | 加入申請                       | 招待リクエスト                   |
 | Invite Request Response   | 加入请求回复           | 回覆加入申請                   | 招待リクエストの返事             |
 | Invite Requests           | 加入请求               | 加入申請                       | 招待リクエスト                   |
 | Invite Response           | 回复邀请               | 回覆邀請                       | 招待の返事                       |
@@ -137,11 +137,11 @@ the app and across releases.
 | One Handed Movement       | 单手移动               | 單手移動控制                   | 片手操作での移動                 |
 | Online                    | 在线                   | 線上                           | オンライン                       |
 | Online Friends            | 在线好友               | 在線好友                       | オンラインのフレンド             |
-| Particle Systems          | 粒子组件               | 粒子系統數{ln}Particle Systems | パーティクルシステムの数         |
+| Particle Systems          | 粒子组件               | 粒子系統數                       | パーティクルシステムの数         |
 | Performance Breakdown     | 性能详情               | 效能分析                       | パフォーマンスの内訳             |
 | Photo                     | 图片                   | 照片                           | 写真                             |
 | Platform                  | 平台                   | 平台                           | プラットフォーム                 |
-| Polygons                  | 面数                   | 面數{ln}Polygons               | ポリゴンの数                     |
+| Polygons                  | 面数                   | 面數                           | ポリゴンの数                     |
 | Portal                    | 传送门                 | 傳送門                         | ポータル                         |
 | Preview                   | 预览                   | 預覽                           | プレビュー                       |
 | Pronouns                  | 人称代词               | 人稱代詞                       | 代名詞                           |
@@ -297,7 +297,7 @@ the app and across releases.
 | Time Spent                         | 总停留时长                 | 停留時長              | 過ごした時間                         |
 | Time Together                      | 一起游玩的时长             | 一起遊玩時長          | 一緒に居た時間                       |
 | User ID                            | 玩家 ID                    | 用戶 ID               | ユーザーID                           |
-| VR Overlay Notification Filters    | VR 叠加通知过滤器          | VR 疊加通知過濾器     | VR オーバーレイ通知フィルター        |
+| VR Overlay Notification Filters    | VR 叠加通知过滤器          | VR 嵌入介面通知過濾器     | VR オーバーレイ通知フィルター        |
 | VRChat Docs                        | VRChat 文档                | VRChat 文件           | VRChat ドキュメント                  |
 | VRChat Favorites                   | VRChat 收藏                | VRChat 收藏           | VRChat のお気に入り                  |
 | VRChat Link                        | VRChat 链接                | VRChat 連結           | VRChat リンク                        |
